@@ -1,0 +1,32 @@
+/* You should also try to use several of the properties mentioned in the previous lesson 
+(color, background color, typography properties, etc). 
+Take some time to play around with the various properties to get a feel for what they do. For now, 
+don’t worry at all about making it look good. This is just to practice and get used to writing CSS, 
+not to make something to show off on your resume. */
+
+.header {
+    color: palegoldenrod;
+    background-color: plum;
+    font-size: 22px;
+}
+
+.list {
+    color: palevioletred;
+    font-size: 18px;
+    text-align: left;
+}
+
+img {
+    height: auto;
+    width: 300px
+}
+
+h3 {
+    color: palevioletred;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+p {
+    color: palevioletred;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
